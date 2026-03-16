@@ -17,3 +17,8 @@
 Thumbs.db text
 zip files
 *.zip binary
+/.mvnw.cmd text eol=crlf
+/.mvnw text eol=lf
+.mvn/ wrapper/maven-wrapper.jar binary
+.mvn/ wrapper/maven-wrapper.properties text eol=lf
+maven-wrapper.properties text eol=lf
