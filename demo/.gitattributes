@@ -1,2 +1,19 @@
 /mvnw text eol=lf
 *.cmd text eol=crlf
+
+# Ignore IDE files
+.idea/ text
+*.iml text
+*.ipr text
+*.iws text
+# Ignore build files
+/target/ text
+/build/ text
+# Ignore logs
+/logs/ text
+*.log text
+# Ignore OS files
+.DS_Store text
+Thumbs.db text
+zip files
+*.zip binary
